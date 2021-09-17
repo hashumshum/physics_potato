@@ -1,14 +1,4 @@
 import math
-def tryflo(try1,try2) :
-	try :
-		try1 = float(try1)
-	except ValueError :
-		print(try2)
-def tryint(try1,try2) :
-	try :
-		try1 = int(try1)
-	except ValueError :
-		print(try2)
 
 abc = 0
 while abc == 0:
